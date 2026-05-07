@@ -6,8 +6,8 @@
 
 | | Description | Link |
 |---|---|---|
-| **WikiRace AI** | Benchmark how AI models navigate Wikipedia — race LLMs through a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
-| **Euler Solver** | Agentic LLM benchmark on Project Euler — models write and execute code to solve math problems. Web UI with leaderboard. | [repo](https://github.com/abobabo91/euler_benchmark) |
+| **WikiRace AI** | Benchmark how AI models navigate Wikipedia — a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
+| **Euler Solver** | Agentic LLM benchmark on Project Euler | [repo](https://github.com/abobabo91/euler_benchmark) |
 
 ### Templates & Tools
 
@@ -32,6 +32,6 @@
 | | Description | Link |
 |---|---|---|
 | **YouTube TV** | Enter a topic and get a themed video channel with autoplay playlist | [youtubetv-two.vercel.app](https://youtubetv-two.vercel.app) |
-| **Hunrhyme** | Hungarian rhyme finder | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
+| **Hunrhyme** | Hungarian rhyme finder from peotry and music lyrics | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
