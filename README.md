@@ -1,8 +1,6 @@
 # Hi, I'm Abel
 
-I build tools and experiments at the intersection of AI, data, and the web.
-
-## Live Projects
+## Projects
 
 ### AI & Research
 
