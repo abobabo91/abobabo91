@@ -27,16 +27,11 @@ I build things at the intersection of AI research and interactive software. Most
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
 | **Soccer Free Kick** | Soccer free kick simulator | [soccer](https://abobabo91.github.io/soccer_free_kick/) |
 
-### Media
+### Media & Art
 
 | | Description | Link |
 |---|---|---|
 | **YouTube TV** | Enter a topic and get a themed video channel with autoplay playlist | [youtubetv-two.vercel.app](https://youtubetv-two.vercel.app) |
 | **Hunrhyme** | Hungarian rhyme finder | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
-
-### Art
-
-| | Description | Link |
-|---|---|---|
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
