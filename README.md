@@ -17,6 +17,7 @@ I build things at the intersection of AI research and interactive software. Most
 | **Desktop Agent** | Desktop AI agent with native GUI — point at a folder, type a task, get results. Builds to a single .exe. Supports Gemini, OpenAI, Anthropic, xAI. | [repo](https://github.com/abobabo91/template-desktop-agent) |
 | **File Agent** | CLI agent template — give it a task, it reads files, runs commands, and writes output. Multi-provider. | [repo](https://github.com/abobabo91/template-file-agent) |
 | **Location Maps** | Go toolkit for location-based apps — wrappers for Google Places, Foursquare, Yelp, and OSM with geo helpers | [repo](https://github.com/abobabo91/template-location-maps) |
+| **Vibecoding 101** | Complete beginner's guide to building and deploying apps with AI — from zero to a live Dockerized app with SSL | [repo](https://github.com/abobabo91/vibecoding-101) |
 
 ### Sports
 
