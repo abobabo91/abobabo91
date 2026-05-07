@@ -1,7 +1,5 @@
 # Hi, I'm Abel
 
-I build things at the intersection of AI research and interactive software. Most of my projects start as research questions — *how well can an RL agent learn curling?*, *how fast can LLMs navigate Wikipedia?* — and turn into working tools.
-
 ## Projects
 
 ### AI & Research
