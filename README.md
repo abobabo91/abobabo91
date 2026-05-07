@@ -13,6 +13,14 @@ I build things at the intersection of AI research and interactive software. Most
 | **WikiRace AI** | Benchmark how AI models navigate Wikipedia — race LLMs through a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
 | **Athlete Intelligence** | Search any athlete and get 10 obscure, fascinating stats powered by AI | [athletestats.vercel.app](https://athletestats.vercel.app) |
 
+### Templates & Tools
+
+| | Description | Link |
+|---|---|---|
+| **Desktop Agent** | Desktop AI agent with native GUI — point at a folder, type a task, get results. Builds to a single .exe. Supports Gemini, OpenAI, Anthropic, xAI. | [repo](https://github.com/abobabo91/template-desktop-agent) |
+| **File Agent** | CLI agent template — give it a task, it reads files, runs commands, and writes output. Multi-provider. | [repo](https://github.com/abobabo91/template-file-agent) |
+| **Location Maps** | Go toolkit for location-based apps — wrappers for Google Places, Foursquare, Yelp, and OSM with geo helpers | [repo](https://github.com/abobabo91/template-location-maps) |
+
 ### Sports
 
 | | Description | Link |
