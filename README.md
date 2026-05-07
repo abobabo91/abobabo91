@@ -9,6 +9,7 @@ I build things at the intersection of AI research and interactive software. Most
 | | Description | Link |
 |---|---|---|
 | **WikiRace AI** | Benchmark how AI models navigate Wikipedia — race LLMs through a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
+| **Euler Solver** | Agentic LLM benchmark on Project Euler — models write and execute code to solve math problems. Web UI with leaderboard. | [repo](https://github.com/abobabo91/euler_benchmark) |
 
 ### Templates & Tools
 
