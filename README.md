@@ -6,8 +6,8 @@
 
 | | Description | Link |
 |---|---|---|
-| **WikiRace AI** | Benchmark how AI models navigate Wikipedia — a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
-| **Euler Solver** | Agentic LLM benchmark on Project Euler | [repo](https://github.com/abobabo91/euler_benchmark) |
+| **WikiRace AI Benchmark** | Benchmark how AI models navigate Wikipedia — a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
+| **Project Euler AI Benchmark** | Agentic LLM benchmark on Project Euler | [repo](https://github.com/abobabo91/euler_benchmark) |
 
 ### Templates & Tools
 
