@@ -26,7 +26,6 @@
 | **Athlete Intelligence** | Search any athlete and get 10 obscure, fascinating stats powered by AI | [athletestats.vercel.app](https://athletestats.vercel.app) |
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
 | **Soccer Free Kick** | Soccer free kick simulator | [soccer](https://abobabo91.github.io/soccer_free_kick/) |
-| **Soccer Ball Creator** | Map any image onto an interactive 3D soccer ball | [soccer_ball_creator](https://abobabo91.github.io/soccer_ball_creator/) |
 
 ### Media & Art
 
@@ -36,3 +35,4 @@
 | **Hunrhyme** | Hungarian rhyme finder from peotry and music lyrics | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
+| **Ball Creator** | Map any image onto an interactive 3D ball | [soccer_ball_creator](https://abobabo91.github.io/soccer_ball_creator/) |
