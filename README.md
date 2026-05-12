@@ -26,6 +26,7 @@
 | **Athlete Intelligence** | Search any athlete and get 10 obscure, fascinating stats powered by AI | [athletestats.vercel.app](https://athletestats.vercel.app) |
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
 | **Soccer Free Kick** | Soccer free kick simulator | [soccer](https://abobabo91.github.io/soccer_free_kick/) |
+| **Soccer Ball Creator** | Map any image onto an interactive 3D soccer ball | [soccer_ball_creator](https://abobabo91.github.io/soccer_ball_creator/) |
 
 ### Media & Art
 
