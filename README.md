@@ -27,6 +27,13 @@
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
 | **Soccer Free Kick** | Soccer free kick simulator | [soccer](https://abobabo91.github.io/soccer_free_kick/) |
 
+### Music
+
+| | Description | Link |
+|---|---|---|
+| **My Music Collection** | Song-by-song graph of 15k+ tracks across 9 genres — artist credits, rankings, maps, folder browser | [live](https://abobabo91.github.io/zene-local-music-graph/) / [repo](https://github.com/abobabo91/zene-local-music-graph) |
+| **Music Collection Timeline** | Genre evolution over 20 years — cumulative stacked area, drill-down, smoothing | [live](https://abobabo91.github.io/zene-genre-timeline/) / [repo](https://github.com/abobabo91/zene-genre-timeline) |
+
 ### Media & Art
 
 | | Description | Link |
