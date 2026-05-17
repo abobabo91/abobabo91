@@ -31,15 +31,15 @@
 
 | | Description | Link |
 |---|---|---|
-| **My Music Collection** | Song-by-song graph of 15k+ tracks across 9 genres — artist credits, rankings, maps, folder browser | [live](https://abobabo91.github.io/zene-local-music-graph/) / [repo](https://github.com/abobabo91/zene-local-music-graph) |
-| **Music Collection Timeline** | Genre evolution over 20 years — cumulative stacked area, drill-down, smoothing | [live](https://abobabo91.github.io/zene-genre-timeline/) / [repo](https://github.com/abobabo91/zene-genre-timeline) |
+| **My Music Collection** | Song-by-song collection of 15k+ tracks | [live](https://abobabo91.github.io/zene-local-music-graph/) / [repo](https://github.com/abobabo91/zene-local-music-graph) |
+| **My Music Collection Timeline** | Genre evolution over 20 years| [live](https://abobabo91.github.io/zene-genre-timeline/) / [repo](https://github.com/abobabo91/zene-genre-timeline) |
+| **Hunrhyme** | Hungarian rhyme finder from peotry and music lyrics | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
 
 ### Media & Art
 
 | | Description | Link |
 |---|---|---|
 | **YouTube TV** | Enter a topic and get a themed video channel with autoplay playlist | [youtubetv-two.vercel.app](https://youtubetv-two.vercel.app) |
-| **Hunrhyme** | Hungarian rhyme finder from peotry and music lyrics | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
 | **Ball Creator** | Map any image onto an interactive 3D ball | [soccer_ball_creator](https://abobabo91.github.io/soccer_ball_creator/) |
