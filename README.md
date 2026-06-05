@@ -39,6 +39,7 @@
 
 | | Description | Link |
 |---|---|---|
+| **In-Video Ad** | Splice picture-in-picture, split-screen, or banner ads into long videos via a CSV timing sheet. Six layouts with smooth slide-in/out transitions. | [repo](https://github.com/abobabo91/in-video-ad) |
 | **YouTube TV** | Enter a topic and get a themed video channel with autoplay playlist | [youtubetv-two.vercel.app](https://youtubetv-two.vercel.app) |
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
