@@ -39,7 +39,7 @@
 
 | | Description | Link |
 |---|---|---|
-| **In-Video Ad** | Got a long video and want to drop sponsor reads, banners, or split-screen ads into it without opening a video editor? Write a tiny CSV with the timings, get back an MP4 with everything spliced in. | [repo](https://github.com/abobabo91/in-video-ad) |
+| **In-Video Ad** | Adds overlay ads to a long video at timings from a CSV | [repo](https://github.com/abobabo91/in-video-ad) |
 | **YouTube TV** | Enter a topic and get a themed video channel with autoplay playlist | [youtubetv-two.vercel.app](https://youtubetv-two.vercel.app) |
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
