@@ -22,6 +22,7 @@
 
 | | Description | Link |
 |---|---|---|
+| **WC 2026 Profiles** | World Cup 2026 hub — 1260 player profiles, 494 match lineups, 48 team radars + Best XIs across 5 scoring axes, all-teams and all-players sortable tables. Auto-refreshes when matches start/end. | [live](https://abobabo91.github.io/wc2026-profiles/) / [repo](https://github.com/abobabo91/wc2026-profiles) |
 | **CurlingAI** | RL agent for curling trained from scratch — staged curriculum learning, hybrid rule-neural inference, MCTS search. | [repo](https://github.com/abobabo91/curlingai) |
 | **Athlete Intelligence** | Search any athlete and get 10 obscure, fascinating stats powered by AI | [athletestats.vercel.app](https://athletestats.vercel.app) |
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
