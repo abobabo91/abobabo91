@@ -13,7 +13,7 @@
 
 | | Description | Link |
 |---|---|---|
-| **pc-cleaner** | Claude Code skill that cleans a Windows 11 PC — asks plain-English questions about what you actually use, disables the bloat you don't. Every change is snapshot-saved and reversible. | [repo](https://github.com/abobabo91/pc-cleaner) |
+| **PC Cleaner** | Claude Code skill that cleans a Windows 11 PC — asks plain-English questions about what you actually use, disables the bloat you don't. Every change is snapshot-saved and reversible. | [repo](https://github.com/abobabo91/pc-cleaner) |
 | **Desktop Agent** | Desktop AI agent with native GUI — point at a folder, type a task, get results. Builds to a single .exe. Supports Gemini, OpenAI, Anthropic, xAI. | [repo](https://github.com/abobabo91/template-desktop-agent) |
 | **File Agent** | CLI agent template — give it a task, it reads files, runs commands, and writes output. Multi-provider. | [repo](https://github.com/abobabo91/template-file-agent) |
 | **Location Maps** | Go toolkit for location-based apps — wrappers for Google Places, Foursquare, Yelp, and OSM with geo helpers | [repo](https://github.com/abobabo91/template-location-maps) |
