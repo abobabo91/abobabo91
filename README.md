@@ -29,6 +29,12 @@
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
 | **Soccer Free Kick** | Soccer free kick simulator | [soccer](https://abobabo91.github.io/soccer_free_kick/) |
 
+### Travel & Food
+
+| | Description | Link |
+|---|---|---|
+| **MICHELIN Map** | Every restaurant on the MICHELIN Guide (19,506 worldwide, all tiers) as CSVs + a KML you drop into Google My Maps — colored pins per tier, direct link to each restaurant's guide page, tap on your phone to open. | [repo](https://github.com/abobabo91/michelin-map) |
+
 ### Music
 
 | | Description | Link |
