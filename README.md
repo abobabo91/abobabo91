@@ -33,7 +33,7 @@
 
 | | Description | Link |
 |---|---|---|
-| **MICHELIN Map** | Every restaurant on the MICHELIN Guide (19,506 worldwide, all tiers) as CSVs + a KML you drop into Google My Maps — colored pins per tier, direct link to each restaurant's guide page, tap on your phone to open. | [repo](https://github.com/abobabo91/michelin-map) |
+| **MICHELIN Map** | All 19,505 MICHELIN Guide restaurants worldwide as KMLs you drop into Google Maps. | [repo](https://github.com/abobabo91/michelin-map) |
 
 ### Music
 
