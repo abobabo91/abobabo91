@@ -18,6 +18,7 @@
 | **File Agent** | CLI agent template — give it a task, it reads files, runs commands, and writes output. Multi-provider. | [repo](https://github.com/abobabo91/template-file-agent) |
 | **Location Maps** | Go toolkit for location-based apps — wrappers for Google Places, Foursquare, Yelp, and OSM with geo helpers | [repo](https://github.com/abobabo91/template-location-maps) |
 | **Vibecoding 101** | Complete beginner's guide to building and deploying apps with AI — from zero to a live Dockerized app with SSL | [repo](https://github.com/abobabo91/vibecoding-101) |
+| **Dictionary Highlighter** | Chrome extension — highlight any word on any webpage to see its definition in a bottom-right popup, save words for later. Merriam-Webster + Free Dictionary sources. | [repo](https://github.com/abobabo91/dictionary-highlighter) |
 
 ### Sports
 
