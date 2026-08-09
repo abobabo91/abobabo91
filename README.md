@@ -30,25 +30,13 @@
 | **NBA Stats Lab** | NBA season stats with historical adjusted scoring visualization | [nba-stats-lab](https://abobabo91.github.io/nba-stats-lab/) |
 | **Soccer Free Kick** | Soccer free kick simulator | [soccer](https://abobabo91.github.io/soccer_free_kick/) |
 
-### Travel & Food
-
-| | Description | Link |
-|---|---|---|
-| **MICHELIN Map** | All 19,505 MICHELIN Guide restaurants worldwide as KMLs you drop into Google Maps. | [repo](https://github.com/abobabo91/michelin-map) |
-
-### Space
-
-| | Description | Link |
-|---|---|---|
-| **Skywatch** | Telegram bot that messages you minutes before a satellite worth seeing passes over your house — which way to face, how high to look, how long it stays up. Catches freshly launched Starlink trains while they are still flying in formation. Runs on your own machine, answers only you. | [repo](https://github.com/abobabo91/skywatch) |
-
 ### Music
 
 | | Description | Link |
 |---|---|---|
 | **My Music Collection** | Song-by-song collection of 15k+ tracks | [live](https://abobabo91.github.io/zene-local-music-graph/) / [repo](https://github.com/abobabo91/zene-local-music-graph) |
 | **My Music Collection Timeline** | Genre evolution over 20 years| [live](https://abobabo91.github.io/zene-genre-timeline/) / [repo](https://github.com/abobabo91/zene-genre-timeline) |
-| **Hunrhyme** | Hungarian rhyme finder from peotry and music lyrics | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
+| **Hunrhyme** | Hungarian rhyme finder from poetry and music lyrics | [hunrhyme](https://abobabo91.github.io/hunrhyme/) |
 
 ### Media & Art
 
@@ -59,3 +47,10 @@
 | **Anamorph** | Interactive conical and elliptical mirror anamorphosis demos | [anamorph](https://abobabo91.github.io/anamorph/) |
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
 | **Ball Creator** | Map any image onto an interactive 3D ball | [soccer_ball_creator](https://abobabo91.github.io/soccer_ball_creator/) |
+
+### Other
+
+| | Description | Link |
+|---|---|---|
+| **Skywatch** | Telegram bot that messages you minutes before a satellite worth seeing passes over your house — which way to face, how high to look, how long it stays up. Catches freshly launched Starlink trains while they are still flying in formation. Runs on your own machine, answers only you. | [repo](https://github.com/abobabo91/skywatch) |
+| **MICHELIN Map** | All 19,505 MICHELIN Guide restaurants worldwide as KMLs you drop into Google Maps. | [repo](https://github.com/abobabo91/michelin-map) |
