@@ -52,5 +52,5 @@
 
 | | Description | Link |
 |---|---|---|
-| **Skywatch** | Telegram bot that messages you minutes before a satellite worth seeing passes over your house — which way to face, how high to look, how long it stays up. Catches freshly launched Starlink trains while they are still flying in formation. Runs on your own machine, answers only you. | [repo](https://github.com/abobabo91/skywatch) |
+| **Skywatch** | Telegram bot that messages you before a satellite worth seeing passes over — which way to face, how high to look. Catches Starlink trains still in formation. | [repo](https://github.com/abobabo91/skywatch) |
 | **MICHELIN Map** | All 19,505 MICHELIN Guide restaurants worldwide as KMLs you drop into Google Maps. | [repo](https://github.com/abobabo91/michelin-map) |
