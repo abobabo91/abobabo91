@@ -8,6 +8,7 @@
 |---|---|---|
 | **WikiRace AI Benchmark** | Benchmark how AI models navigate Wikipedia — a knowledge graph | [wiki-race](https://wiki-race-673626542594.europe-west1.run.app) |
 | **Project Euler AI Benchmark** | Agentic LLM benchmark on Project Euler | [repo](https://github.com/abobabo91/euler_benchmark) |
+| **Family Tree Agent** | Give it an ancestor's name and it researches the whole family — seven search lenses per person, a sourced confidence level on every relationship, machine-checked citations, and one shareable HTML tree. Runs on the Claude Code CLI, not a paid API. Ships with a working 21-person example. | [repo](https://github.com/abobabo91/family-tree-agent) |
 
 ### Templates & Tools
 
@@ -18,6 +19,7 @@
 | **File Agent** | CLI agent template — give it a task, it reads files, runs commands, and writes output. Multi-provider. | [repo](https://github.com/abobabo91/template-file-agent) |
 | **Location Maps** | Go toolkit for location-based apps — wrappers for Google Places, Foursquare, Yelp, and OSM with geo helpers | [repo](https://github.com/abobabo91/template-location-maps) |
 | **Vibecoding 101** | Complete beginner's guide to building and deploying apps with AI — from zero to a live Dockerized app with SSL | [repo](https://github.com/abobabo91/vibecoding-101) |
+| **Pig Engine** | Template for browser 3D scenes — SvelteKit + Three.js + custom GLSL, with two playable worlds to strip down and build on. Fully procedural: no models, no textures, no assets. | [repo](https://github.com/abobabo91/matrix-pig) |
 | **Dictionary Highlighter** | Chrome extension — highlight any word on any webpage to see its definition in a bottom-right popup, save words for later. Merriam-Webster + Free Dictionary sources. | [repo](https://github.com/abobabo91/dictionary-highlighter) |
 
 ### Sports
