@@ -22,12 +22,6 @@
 | **3D Browser Scene** | Template for browser 3D scenes — SvelteKit + Three.js + custom GLSL, with two playable worlds to strip down and build on. Fully procedural: no models, no textures, no assets. | [repo](https://github.com/abobabo91/template-3d-browser-scene) |
 | **Dictionary Highlighter** | Chrome extension — highlight any word on any webpage to see its definition in a bottom-right popup, save words for later. Merriam-Webster + Free Dictionary sources. | [repo](https://github.com/abobabo91/dictionary-highlighter) |
 
-### Games
-
-| | Description | Link |
-|---|---|---|
-| **Mythic Clash** | Hearthstone-like card game built from 100 world mythologies — 2,000 mythological figures turned into 102 card packs, a tested headless duel engine, bot and LLM self-play for balance testing, and a local browser UI. Open work in progress: the competitive balance pass, deckbuilder and card artwork are unfinished, and the README says exactly what's missing. | [repo](https://github.com/abobabo91/mythic-clash) |
-
 ### Sports
 
 | | Description | Link |
@@ -60,5 +54,6 @@
 
 | | Description | Link |
 |---|---|---|
+| **Mythic Clash** | Hearthstone-like card game built from 100 world mythologies — 2,000 mythological figures turned into 102 card packs, a tested headless duel engine, bot and LLM self-play for balance testing, and a local browser UI. Open work in progress: the competitive balance pass, deckbuilder and card artwork are unfinished, and the README says exactly what's missing. | [repo](https://github.com/abobabo91/mythic-clash) |
 | **Skywatch** | Telegram bot that messages you before a satellite worth seeing passes over — which way to face, how high to look. Catches Starlink trains still in formation. | [repo](https://github.com/abobabo91/skywatch) |
 | **MICHELIN Map** | All 19,505 MICHELIN Guide restaurants worldwide as KMLs you drop into Google Maps. | [repo](https://github.com/abobabo91/michelin-map) |
