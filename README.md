@@ -2,12 +2,6 @@
 
 ## Projects
 
-### Games
-
-| | Description | Link |
-|---|---|---|
-| **Aeronauts 2** | Browser-first competitive aerial arena shooter prototype — fixed-tick high-skill flight, independent aim, finite-speed primary projectiles, an instant railgun, and a first-to-five duel against a shared-simulation bot. | [repo](https://github.com/abobabo91/aeronauts-2) |
-
 ### AI & Research
 
 | | Description | Link |
@@ -56,10 +50,16 @@
 | **Kaleidoscope** | In-browser kaleidoscope generator with animated rotation/drift/zoom and video export | [kaleidoscope](https://abobabo91.github.io/kaleidoscope-video-maker/) |
 | **Ball Creator** | Map any image onto an interactive 3D ball | [soccer_ball_creator](https://abobabo91.github.io/soccer_ball_creator/) |
 
+### Games
+
+| | Description | Link |
+|---|---|---|
+| **Aeronauts 2** | Browser-first competitive aerial arena shooter prototype — fixed-tick high-skill flight, independent aim, finite-speed primary projectiles, an instant railgun, and a first-to-five duel against a shared-simulation bot. | [repo](https://github.com/abobabo91/aeronauts-2) |
+| **Mythic Clash** | Hearthstone-like card game built from 100 world mythologies — 2,000 mythological figures turned into 102 card packs, a tested headless duel engine, bot and LLM self-play for balance testing, and a local browser UI. Open work in progress: the competitive balance pass, deckbuilder and card artwork are unfinished, and the README says exactly what's missing. | [repo](https://github.com/abobabo91/mythic-clash) |
+
 ### Other
 
 | | Description | Link |
 |---|---|---|
-| **Mythic Clash** | Hearthstone-like card game built from 100 world mythologies — 2,000 mythological figures turned into 102 card packs, a tested headless duel engine, bot and LLM self-play for balance testing, and a local browser UI. Open work in progress: the competitive balance pass, deckbuilder and card artwork are unfinished, and the README says exactly what's missing. | [repo](https://github.com/abobabo91/mythic-clash) |
 | **Skywatch** | Telegram bot that messages you before a satellite worth seeing passes over — which way to face, how high to look. Catches Starlink trains still in formation. | [repo](https://github.com/abobabo91/skywatch) |
 | **MICHELIN Map** | All 19,505 MICHELIN Guide restaurants worldwide as KMLs you drop into Google Maps. | [repo](https://github.com/abobabo91/michelin-map) |
