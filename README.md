@@ -2,6 +2,12 @@
 
 ## Projects
 
+### Games
+
+| | Description | Link |
+|---|---|---|
+| **Aeronauts 2** | Browser-first competitive aerial arena shooter prototype — fixed-tick high-skill flight, independent aim, finite-speed primary projectiles, an instant railgun, and a first-to-five duel against a shared-simulation bot. | [repo](https://github.com/abobabo91/aeronauts-2) |
+
 ### AI & Research
 
 | | Description | Link |
